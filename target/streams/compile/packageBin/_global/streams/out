@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/vishalpratapsingh/IdeaProjects/helloScala2/target/scala-2.13/helloscala2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloScala2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vishalpratapsingh/IdeaProjects/helloScala2/target/scala-2.13/classes/helloScala2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloScala2/Demo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vishalpratapsingh/IdeaProjects/helloScala2/target/scala-2.13/classes/helloScala2/Demo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloScala2/Demo/Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vishalpratapsingh/IdeaProjects/helloScala2/target/scala-2.13/classes/helloScala2/Demo/Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloScala2/Demo/Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vishalpratapsingh/IdeaProjects/helloScala2/target/scala-2.13/classes/helloScala2/Demo/Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
