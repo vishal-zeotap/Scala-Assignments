@@ -1,5 +1,5 @@
 package helloScala2
-package Demo
+package Assignment1
 
 object Assignment1 {
 
